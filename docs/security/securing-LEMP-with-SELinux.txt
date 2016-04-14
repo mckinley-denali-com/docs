@@ -1,8 +1,0 @@
-Securing a LEMP stack web server with SELinux
-
-SELinux can protect system resources (such as files and TCP sockets) from being illegitimately accessed. The victims of cyber security breaches usually regret switchign it off. 
-
-- set correct SELinux labels on the web server document directory tree and server configuration files
-- create SELinux modules to allow access to TCP sockets
-- test your configuration
-etc.
